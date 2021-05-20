@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MobileTracking.Views;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -10,7 +11,7 @@ namespace MobileTracking
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new PrincipalPage();
         }
 
         protected override void OnStart()

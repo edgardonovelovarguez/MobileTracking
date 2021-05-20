@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileTracking.Views.PrincipalPage">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="FillAndExpand" Padding="20">
+            <Label Text="Latitud:" HorizontalOptions="Start"/>
+            <Label Text="Text"/>
+            <Label Text="Longitud:" HorizontalOptions="Start"/>
+            <Label Text="Text"/>
+
+            <Button Text="Iniciar Geolocalización" HorizontalOptions="Center" BackgroundColor="Green" TextColor="White"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
