@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileTracking.Android", "MobileTracking\MobileTracking.Android\MobileTracking.Android.csproj", "{9B6A571A-69CC-4B2E-A6EA-43F259F1D3C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileTracking", "MobileTracking\MobileTracking\MobileTracking.csproj", "{9BFDE6AE-40BF-48F3-B436-7A41855741CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B6A571A-69CC-4B2E-A6EA-43F259F1D3C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B6A571A-69CC-4B2E-A6EA-43F259F1D3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B6A571A-69CC-4B2E-A6EA-43F259F1D3C9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9B6A571A-69CC-4B2E-A6EA-43F259F1D3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B6A571A-69CC-4B2E-A6EA-43F259F1D3C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B6A571A-69CC-4B2E-A6EA-43F259F1D3C9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9BFDE6AE-40BF-48F3-B436-7A41855741CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BFDE6AE-40BF-48F3-B436-7A41855741CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BFDE6AE-40BF-48F3-B436-7A41855741CC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9BFDE6AE-40BF-48F3-B436-7A41855741CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BFDE6AE-40BF-48F3-B436-7A41855741CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BFDE6AE-40BF-48F3-B436-7A41855741CC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E2357FD-D72C-4943-A812-B4B65541225C}
+	EndGlobalSection
+EndGlobal
