@@ -12,6 +12,7 @@ namespace MobileTracking
     {
         public MainPage()
         {
+            //main page
             InitializeComponent();
         }
     }
