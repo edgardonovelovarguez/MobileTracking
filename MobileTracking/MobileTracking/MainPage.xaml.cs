@@ -14,6 +14,10 @@ namespace MobileTracking
         {
             //main page
             InitializeComponent();
+            //sdjksdjfsjfdds
+            //lskdjklsdjds
+            ///kdsjfksdjfkds
+            
         }
     }
 }
